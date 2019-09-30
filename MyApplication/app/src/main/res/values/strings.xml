@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalculaCombustível</string>
+    <string name="calculaCombustivel">Calcula Combustível</string>
+    <string name="valorGasolina">Valor da Gasolina</string>
+    <string name="valorAlcool">Valor do Álcool</string>
+    <string name="buttonCalcular">CALCULAR</string>
+
+
+    <string name="resultadoGasolina">Gasolina é Melhor</string>
+    <string name="resultadoAlcool">Álcool é Melhor</string>
+</resources>

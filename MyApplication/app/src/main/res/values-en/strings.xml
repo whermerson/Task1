@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalculatesFuel</string>
+    <string name="calculaCombustivel">Calculates Fuel</string>
+    <string name="valorGasolina">Gasoline Value</string>
+    <string name="valorAlcool">Alcohol Value</string>
+    <string name="buttonCalcular">CALCULATE</string>
+
+    <string name="resultadoGasolina">Gasoline is Better</string>
+    <string name="resultadoAlcool">Alcohol is Better</string>
+</resources>
